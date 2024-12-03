@@ -1,0 +1,5 @@
+Category,Count,Avg_Width,Avg_Height,Med_Width,Med_Height
+Mild Demented,8960,198.0,189.0,200.0,190.0
+Moderate Demented,6464,199.8019801980198,189.9009900990099,200.0,190.0
+Non Demented,9600,193.33333333333334,186.66666666666666,200.0,190.0
+Very Mild Demented,8960,195.0,187.5,200.0,190.0
